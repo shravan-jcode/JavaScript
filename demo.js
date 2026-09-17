@@ -1,7 +1,5 @@
-var x = 10;
+const username = "";
 
-if (true) {
-  var x = 20;
+if (!username) {
+  console.log("Username is required");
 }
-
-console.log(x);
