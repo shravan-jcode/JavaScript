@@ -1,5 +1,10 @@
-const username = "";
+function sum(...numbers){
+  let sum =0;
 
-if (!username) {
-  console.log("Username is required");
+  for (const num of numbers) {
+    sum +=num;
+  }
+  return sum;
 }
+const num =[1,2,3,4]
+console.log(sum(...num))
