@@ -1,13 +1,4 @@
-function counterDemo (){
-  let count =0;
+const num =[1,6,2,4,7]
 
-  return function() {
-    count++;
-    console.log(count)
-  }
-}
-
-const count = counterDemo()
-count()
-count()
-count()
+const newArr= [...num].sort()
+console.log(newArr)
