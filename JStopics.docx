@@ -1,0 +1,87 @@
+JavaScript — only the important topics
+Variables & Scope
+let, const, var
+Block/function scope
+Hoisting
+Data Types & Type Conversion
+Primitive vs reference types
+null, undefined
+Truthy/falsy
+== vs ===
+Type coercion
+Functions
+Function declarations/expressions
+Arrow functions
+Parameters & return values
+Default/rest parameters
+Callback functions
+Objects
+Creating/accessing objects
+Destructuring
+Spread operator
+Shorthand properties
+Optional chaining ?.
+Nullish coalescing ??
+Arrays
+map()
+filter()
+reduce()
+find()
+findIndex()
+some()
+every()
+forEach()
+sort()
+slice() / splice()
+Strings & Template Literals
+Template literals
+Common string methods
+Control Flow & Loops
+if/else
+switch
+for
+for...of
+for...in
+while
+Scope & Closures
+Lexical scope
+Closures
+this
+this in regular functions
+this in arrow functions
+Object methods
+Important JavaScript Concepts
+Pass by value/reference
+Shallow vs deep copy
+Mutable vs immutable data
+Execution context
+Call stack
+Event loop
+Asynchronous JavaScript — VERY IMPORTANT
+Synchronous vs asynchronous
+Callbacks
+Promises
+.then(), .catch(), .finally()
+async/await
+try/catch
+Promise.all()
+Promise.allSettled()
+Modules
+import / export
+Default vs named exports
+Error Handling
+throw
+try/catch/finally
+Custom errors/basic error handling
+DOM & Browser Basics
+DOM selection/manipulation
+Events
+Event bubbling/delegation
+localStorage / sessionStorage
+Modern JavaScript (ES6+)
+Destructuring
+Spread/rest
+Arrow functions
+Modules
+Optional chaining
+Nullish coalescing
