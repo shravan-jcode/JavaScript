@@ -1,4 +1,20 @@
-const num =[1,6,2,4,7]
+const text ="shravan"
+console.log(text.slice(1))
 
-const newArr= [...num].sort()
-console.log(newArr)
+console.log()
+const numbers =[1,2,3,4]
+
+
+function spread(...numbers){
+    console.log(numbers)
+}
+spread(10,20,30)
+
+const person ={
+    name:"shravan",
+    age:21
+}
+
+const json =JSON.stringify(person)
+console.log(json)
+console.log(JSON.parse(json))
